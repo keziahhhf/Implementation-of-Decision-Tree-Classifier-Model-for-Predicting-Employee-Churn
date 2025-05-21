@@ -63,35 +63,35 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-##DATA HEAD
+## DATA HEAD
 
 ![image](https://github.com/user-attachments/assets/4852ffb6-2aec-48a8-ab2e-6754bbbb261d)
 
-##DATSET INFO
+## DATSET INFO
 
 ![image](https://github.com/user-attachments/assets/72e213d4-1c5e-43d6-b4bc-acf0b79d32ec)
 
-##NULL DATASET
+## NULL DATASET
 
 ![image](https://github.com/user-attachments/assets/6f001f9e-ef45-47de-9490-d81832bfe523)
 
-##VALUES COUNT IN LEFT COLUMN
+## VALUES COUNT IN LEFT COLUMN
 
 ![image](https://github.com/user-attachments/assets/4c6f10ff-d2ea-43f2-8545-bb4e6b133d24)
 
-##DATSET TRANSFORMED HEAD
+## DATSET TRANSFORMED HEAD
 
 ![image](https://github.com/user-attachments/assets/eb02a391-4f34-4084-b17f-6e8bd05927db)
 
-##X HEAD
+## X HEAD
 
 ![image](https://github.com/user-attachments/assets/e99fb5d0-24c7-49e1-a91d-8d2383c256aa)
 
-##ACCURACY
+## ACCURACY
 
 ![image](https://github.com/user-attachments/assets/b0566109-6cd8-45f6-aaee-47b3345d9d18)
 
-##DATA PREDICTION
+## DATA PREDICTION
 
 ![image](https://github.com/user-attachments/assets/ecdf6efd-e6d4-42a1-9260-ade638581436)
 
